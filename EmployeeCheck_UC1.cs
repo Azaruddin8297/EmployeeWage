@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EmployeeWageComputationProblem
 {
-    internal class EmployeeCheck_UC1
+    public class EmployeeCheck_UC1
     {
       public const int IS_FULL_TIME = 1;
       
